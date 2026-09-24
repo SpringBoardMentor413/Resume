@@ -1,0 +1,32 @@
+MERIDIAN SYSTEMS
+Senior Backend Engineer — Cloud Platform Team
+
+ROLE OVERVIEW
+We're hiring a Senior Backend Engineer to help design, build, and scale the distributed
+services that power our cloud platform. This role owns services end-to-end: architecture,
+implementation, deployment, and on-call ownership.
+
+MUST-HAVE REQUIREMENTS
+- 5+ years of professional software engineering experience
+- Strong, hands-on experience building and deploying services on a major cloud provider
+  (AWS, GCP, or Azure) — not just familiarity, but real production experience
+- Proficiency in at least one backend language: Python, Java, or Go
+- Experience designing or working within distributed systems / microservices architectures
+- Experience with CI/CD pipelines and automated deployment practices
+
+NICE-TO-HAVE
+- Experience with container orchestration (Kubernetes)
+- Experience with infrastructure-as-code tools (Terraform, CloudFormation, or similar)
+- Prior experience mentoring junior engineers or leading small technical initiatives
+- Experience working in a regulated domain (fintech, healthcare, or similar)
+
+WHAT WE'RE NOT LOOKING FOR
+- Primarily frontend/UI-focused experience with little backend ownership
+- Pure data science / ML research roles without backend engineering responsibility
+- QA/testing-focused roles without engineering ownership of services
+
+LOCATION
+Remote (US-based)
+
+COMPENSATION
+Market-competitive, based on experience level

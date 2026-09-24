@@ -1,0 +1,57 @@
+BRIGHTDESK — TECHNICAL SUPPORT ESCALATION POLICY
+
+SCOPE OF THIS QUEUE
+This queue is for TECHNICAL / PRODUCT issues only — things that are broken, not working,
+or behaving unexpectedly in the BrightDesk application. Billing questions, invoice disputes,
+refund requests, and subscription cancellations belong to the Billing team, not this queue.
+If a ticket is purely a billing matter, it should be flagged for redirect to Billing rather
+than assigned a technical priority tier.
+
+TIER 1 — ESCALATE NOW (respond within 1 hour)
+A ticket belongs here if it describes any of the following, regardless of how it is worded:
+- A complete service outage affecting multiple customers (the product is down/unreachable)
+- Data loss or data corruption affecting a customer's account or records
+- A payment processing failure that is currently preventing a customer from completing a
+  transaction (this is a technical processing failure, not a billing dispute — it belongs
+  in this queue)
+- A security vulnerability, suspected breach, or unauthorized account access
+- A ticket that was previously marked resolved and is reopened within 48 hours of that
+  resolution, with the customer reporting the same underlying issue is still broken
+
+TIER 2 — SAME DAY (respond within 8 business hours)
+A ticket belongs here if it describes:
+- A specific feature or integration broken for one individual customer, where a workaround
+  exists or the impact is limited to that one account
+- A login or access issue affecting a single customer account (not a broad outage)
+- A compliance-related data request (e.g., a data export or deletion request) that has a
+  regulatory response window
+
+TIER 3 — CAN WAIT (respond within 2 business days)
+A ticket belongs here if it describes:
+- A cosmetic issue (colors, text, layout) that does not affect functionality
+- A feature request or product suggestion
+- A general how-to question that existing help documentation likely answers
+- General positive feedback or a thank-you note with no action required
+
+HANDLING AMBIGUOUS OR INCOMPLETE TICKETS
+If a ticket does not contain enough information to determine severity (e.g., "something's
+wrong, please help" with no further detail), do not guess a tier. Flag it as
+"needs more information — request details from customer before triaging."
+
+HANDLING BORDERLINE CASES
+If a ticket is close to a stated threshold above (for example, near the 48-hour reopen
+window, or the timestamp is unclear) but not clearly on one side of it, do not force it into
+a tier. Flag it as "borderline — confirm with team lead" and state exactly what is
+ambiguous.
+
+WHAT MUST NOT INFLUENCE TIER ASSIGNMENT
+Tier assignment must be based only on the technical severity and business impact described
+above. The following must never raise or lower a ticket's tier, and must not be mentioned in
+the reasoning for a ticket's placement:
+- The customer's age, or anything that implies it
+- Disability status or any accommodation request mentioned in the ticket
+- Family circumstances, personal emergencies, or other life events mentioned in the ticket
+- The customer's English fluency, phrasing, grammar, or writing style
+- The tone or emotional intensity of the ticket (e.g., all-caps, exclamation points, or
+  conversely an unusually calm or brief description) — judge only the substance of what is
+  reported as broken or blocked
